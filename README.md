@@ -1,14 +1,14 @@
 # ShaderHighlight
 - Adds better syntax highlighting for shaders in Vim
-- Supports: glsl, hlsl, cg, ShaderLab
+- Supports: glsl, hlsl, cg, ShaderLab, & ReShade
 
 ## Install
 ```vim
-Plug 'kalvinpearce/ShaderHighlight'
+Plug 'Bo-Fone/Shader-Highlight'
 ```
 
 ## Note
-This is a fork of [vim-scripts/ShaderHighLight](https://github.com/vim-scripts/ShaderHighLight)
+This is a fork of [vim-scripts/ShaderHighLight](https://github.com/vim-scripts/ShaderHighLight) and [kalvinpearce/ShaderHighlight](https://github.com/kalvinpearce/ShaderHighlight).
 
 The original repo used files from these repos as a base for syntax support:
 ```
